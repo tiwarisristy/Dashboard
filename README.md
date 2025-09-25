@@ -1,38 +1,48 @@
 # ⚙️ React Admin Dashboard
 
-A modern and responsive Admin Dashboard built with **React**. This project includes charts, dark/light mode, reusable components, and an intuitive user interface.
-
-![React](https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react)
-![License](https://img.shields.io/github/license/your-username/react-admin-dashboard)
-![GitHub stars](https://img.shields.io/github/stars/your-username/react-admin-dashboard?style=social)
-
+A modern and responsive Admin Dashboard built with **React**. This project includes charts, dark/light mode, reusable components, chatbot integration, and an intuitive user interface.
 ---
 
 ## 🔗 Live Demo
 
-👉 [View Live Project](https://your-username.github.io/react-admin-dashboard/)  
-> *(Replace with your deployed link)*
+👉 [View Live Project](https://tiwarisristy.github.io/dashboard/)  
 
 ---
 
 ## 🚀 Features
 
-- 🌙 Light/Dark Mode Toggle
-- 📊 Charts and Graphs (ECharts, Recharts, etc.)
-- 🧩 Reusable UI Components
-- 📱 Fully Responsive Layout
-- 🔒 Authentication Ready (Extendable)
-- 🧼 Clean Code and Folder Structure
+- 🌙 Light/Dark Mode Toggle  
+- 📊 Charts and Graphs (ECharts, Recharts, etc.)  
+- 🧩 Reusable UI Components  
+- 📱 Fully Responsive Layout  
+- 🔒 Authentication Ready (Extendable)  
+- 💬 **Live Chat Support (Tawk.to Chatbot Integrated)**  
+- 🧼 Clean Code and Folder Structure  
+
+---
+
+## 🖼️ Screenshots  
+
+### Dashboard View  
+<img width="1864" height="922" alt="dashboard" src="https://github.com/user-attachments/assets/600db0ff-7f3c-41df-aff4-f90a0a246c70" />
+  
+
+### Chatbot Integration (Bottom Right)  
+<img width="536" height="791" alt="chatbot" src="https://github.com/user-attachments/assets/3b323cd3-21db-496b-93b9-d829514e24a5" />
+ 
+
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, React Router, Context API
-- **Styling**: Tailwind CSS / Material UI (based on your project)
-- **Charts**: Recharts / ECharts / Chart.js
-- **Icons**: React Icons, HeroIcons, or Material Icons
-- **Deployment**: GitHub Pages / Netlify / Vercel
+- **Frontend**: React, React Router, Context API  
+- **Styling**: Tailwind CSS / Material UI  
+- **Charts**: Recharts / ECharts / Chart.js  
+- **Icons**: React Icons, HeroIcons, or Material Icons  
+- **Deployment**: GitHub Pages / Netlify / Vercel  
+- **Chatbot**: Tawk.to Live Chat Integration  
 
 ---
 
